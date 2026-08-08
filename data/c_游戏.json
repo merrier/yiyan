@@ -14112,20 +14112,6 @@
     "length": 17
   },
   {
-    "id": 11339,
-    "uuid": "a37bee34-01d4-4735-8110-6b2db54b1b29",
-    "hitokoto": "重要的不是你去哪里，而是你将要去哪里。",
-    "type": "c",
-    "from": "王者荣耀",
-    "from_who": "马可波罗",
-    "creator": "食铁牲",
-    "creator_uid": 20744,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1780081366",
-    "length": 19
-  },
-  {
     "id": 11340,
     "uuid": "bb305d0e-f971-4a02-9181-b8466d53070e",
     "hitokoto": "够危险，才够迷人。",
@@ -14268,7 +14254,7 @@
   {
     "id": 11368,
     "uuid": "8c8a695f-fae4-4c5e-b7b8-19a6e19e795d",
-    "hitokoto": "宁如飞萤赴火，不作樛木长春。",
+    "hitokoto": "宁如飞萤赴火，不作樗木长春。",
     "type": "c",
     "from": "崩坏：星穹铁道",
     "from_who": "应星",
@@ -15902,5 +15888,47 @@
     "commit_from": "web",
     "created_at": "1785944948",
     "length": 12
+  },
+  {
+    "id": 12329,
+    "uuid": "fa1efbd1-4cd6-4891-9de1-20e2a26617a5",
+    "hitokoto": "如果人人都玩Minecraft，世界将会变得更加美好。",
+    "type": "c",
+    "from": "Minecraft Live 2020",
+    "from_who": "Jeb_",
+    "creator": "retaWtaC",
+    "creator_uid": 20973,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786199592",
+    "length": 27
+  },
+  {
+    "id": 12330,
+    "uuid": "6a513413-b3ef-4c1e-b64e-4f55ad5d93c4",
+    "hitokoto": "从不避免双重否定！",
+    "type": "c",
+    "from": "Minecraft闪烁标语",
+    "from_who": "Mojang",
+    "creator": "retaWtaC",
+    "creator_uid": 20973,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786201547",
+    "length": 9
+  },
+  {
+    "id": 12331,
+    "uuid": "d5cd1409-f631-448f-83d6-4bf172f42855",
+    "hitokoto": "强者愈弱，弱者愈强。",
+    "type": "c",
+    "from": "Cracker的凋灵风暴",
+    "from_who": "nonamecrackers2",
+    "creator": "retaWtaC",
+    "creator_uid": 20973,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786202001",
+    "length": 10
   }
 ]
